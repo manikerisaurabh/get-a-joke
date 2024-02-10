@@ -39,8 +39,7 @@ axios: Used to make HTTP requests to fetch jokes from the Official Joke API.
 
 # Contributing :
 
-If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request on the GitHub repository
-[pull from](https://github.com/manikerisaurabh/get-a-joke)
+If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request on the GitHub repository [pull from](https://github.com/manikerisaurabh/get-a-joke)
 
 # License :
 
