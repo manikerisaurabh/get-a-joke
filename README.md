@@ -39,7 +39,7 @@ In your code, you can import the getRandomJoke function and use it to get a rand
 
 # Contributing :
 
-        If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request on the GitHub repository https://github.com/manikerisaurabh/get-a-joke.
+        If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request on the GitHub repository [pull from] (https://github.com/manikerisaurabh/get-a-joke).
 
 # License :
 
