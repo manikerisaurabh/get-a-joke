@@ -1,6 +1,6 @@
 {
   "name": "get-a-joke",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this will give you a random joke each time",
   "main": "index.js",
   "scripts": {
