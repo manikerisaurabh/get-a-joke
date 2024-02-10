@@ -30,19 +30,18 @@ In your code, you can import the getRandomJoke function and use it to get a rand
 
 # API :
 
-        getRandomJoke()
-        Returns: Promise<string> - A Promise that resolves to a string containing a random joke.
+getRandomJoke()
+Returns: Promise<string> - A Promise that resolves to a string containing a random joke.
 
 # Dependencies :
 
-        axios: Used to make HTTP requests to fetch jokes from the Official Joke API.
+axios: Used to make HTTP requests to fetch jokes from the Official Joke API.
 
 # Contributing :
 
-        If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request on the GitHub repository
-
+If you encounter any issues or have suggestions for improvement, feel free to open an issue or submit a pull request on the GitHub repository
 [pull from](https://github.com/manikerisaurabh/get-a-joke)
 
 # License :
 
-        This project is licensed under the ISC License.
+This project is licensed under the ISC License.
