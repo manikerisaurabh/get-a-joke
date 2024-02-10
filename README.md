@@ -9,7 +9,7 @@ A simple npm package that fetches a random joke from an external API.
 To use this package in your project, you can install it using npm:
 
 ```bash
-npm install random-joke-generator
+npm install get-a-joke
 ```
 
 # Usage
@@ -19,7 +19,7 @@ In your code, you can import the getRandomJoke function and use it to get a rand
 # example :
 
 ```js
-        const getRandomJoke = require('random-joke-generator');
+        const getRandomJoke = require('get-a-joke');
 
         getRandomJoke()
           .then(joke => console.log(joke))
